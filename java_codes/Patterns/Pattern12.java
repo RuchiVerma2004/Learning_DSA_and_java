@@ -21,5 +21,6 @@ public class Pattern12 {
         System.out.print("Enter the number of rows: ");
         int row = sc.nextInt();
         print(row);
+        sc.close();
     }
 }

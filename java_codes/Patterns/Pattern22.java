@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Pattern21{
+class Pattern22{
 
     public static void print(int row){
         for(int i=1;i<2*row-1;i++){

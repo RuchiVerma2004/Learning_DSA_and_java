@@ -27,5 +27,6 @@ class Count{
         int count2 = optimized(n);
         System.out.println("bruteforce count: " + count);
         System.out.println("optimized count: " + count2);
+        sc.close();
     }
 }

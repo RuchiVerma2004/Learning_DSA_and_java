@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 
 class Palendrome {
   static private boolean isPalindrome(String s) {

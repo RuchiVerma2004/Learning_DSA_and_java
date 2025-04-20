@@ -20,6 +20,7 @@ public class Alphabet {
             System.out.println(hash[ch - 'a']);
             q--;
         }
+        sc.close();
         
     }
 }
